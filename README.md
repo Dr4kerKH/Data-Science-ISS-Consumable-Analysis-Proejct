@@ -2,7 +2,7 @@
 ## Comprehensive Analysis of International Space Station (ISS) Consumables fro Optimal Inventory Managment Project
 
 ### Overview
-This project, a collaboration between Barrios Technology and Angelo State University, focuses on analyzing consumable usage rates aboard the International Space Station (ISS). The goal is to provide insights into historical consumption trends, optimize resupply logistics, and develop predictive models for future mission planning.
+This project, a collaboration between *Barrios Technology* and *Angelo State University*, focuses on analyzing consumable usage rates aboard the International Space Station (ISS). The goal is to provide insights into historical consumption trends, optimize resupply logistics, and develop predictive models for future mission planning.
 
 ### Objectives
 - Evaluate historical ISS consumable usage data and validate assumption accuracy.
