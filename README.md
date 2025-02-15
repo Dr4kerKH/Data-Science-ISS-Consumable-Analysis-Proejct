@@ -36,7 +36,7 @@ This project, a collaboration between *Barrios Technology* and *Angelo State Uni
 This project offers an opportunity to apply data engineering, analytics, and visualization skills to a real-world aerospace challenge while contributing to mission success for the ISS.
 
 ## Acknowledgment
-We would like to extend our sincere gratitude to Barrios Technology for their invaluable support and collaboration on this project. Their expertise in aerospace engineering and logistics has provided crucial insights into the complexities of consumable management aboard the International Space Station (ISS).
+We would like to extend our sincere gratitude to *Barrios Technology* for their invaluable support and collaboration on this project. Their expertise in aerospace engineering and logistics has provided crucial insights into the complexities of consumable management aboard the *International Space Station (ISS)*.
 
 We appreciate the opportunity to analyze real-world data and develop predictive models that contribute to optimizing inventory management for space missions. The guidance and resources provided by Barrios Technology have been instrumental in the success of this project, and we are grateful for their commitment to fostering research and innovation in space logistics.
 
